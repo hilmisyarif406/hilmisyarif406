@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hilmisyarif406
 - 👀 I’m interested in Mobile Development and Machine Learning
-- 🌱 I’m currently learning Flutter and Tensorflow
+- 🌱 I’m currently learning Flutter and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
